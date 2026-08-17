@@ -1,4 +1,4 @@
-# 🚗 Car Rental System
+#  Car Rental System
 
 A simple **Java-based Car Rental System** designed to manage car rental operations through a structured application.
 
@@ -6,13 +6,13 @@ This project is organized as a Java module, with the main source files located i
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Car Rental System** is a Java project intended to handle basic car rental operations. The project follows a standard Java project structure and can be opened and developed using an IDE such as **IntelliJ IDEA**.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Java**
 * **Object-Oriented Programming (OOP)**
@@ -21,7 +21,7 @@ The **Car Rental System** is a Java project intended to handle basic car rental 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Car Rental System/
@@ -38,7 +38,7 @@ The `.iml` file is used by IntelliJ IDEA to store module configuration, while th
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### Using IntelliJ IDEA
 
@@ -68,7 +68,7 @@ java Main
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 This project may demonstrate important Java programming concepts such as:
 
@@ -83,7 +83,7 @@ This project may demonstrate important Java programming concepts such as:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Possible improvements for the project include:
 
@@ -99,7 +99,7 @@ Possible improvements for the project include:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mirza Fahim Shahrear**
 
